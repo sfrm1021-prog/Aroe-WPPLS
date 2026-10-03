@@ -1,0 +1,725 @@
+{
+  "ReverseCategorys": false,
+  "ShowPrivateWorld": false,
+  "Categorys": [
+    {
+      "Category": "人気の場所",
+      "Worlds": [
+        {
+          "ID": "wrld_7a07d4a7-7118-42f8-b105-f1044899fb56",
+          "Name": "クッソ傾く家",
+          "Description": "家そのものが大きく傾く、ぱんだ（graph）制作のユニークなワールド。",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_2583098d-cdc8-4be6-9086-a3b12225ddf9",
+          "Name": "明日も、ここから。",
+          "Description": "星空に包まれながら、今日もお休み。",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_05d530f5-26f8-4bdd-8589-4e0d198df0a2",
+          "Name": "星と、あなたと。",
+          "Description": "宇宙を漂うお部屋に、必要な物が揃ったチルワールド。",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_e0199185-f4ac-49ac-b10f-e209cad880bb",
+          "Name": "Rest.",
+          "Description": "落ち着いて休憩するのに向いた、ぱんだ（graph）制作のチルワールド。",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_845a0a4c-2739-4803-ac84-ca1d34b242ab",
+          "Name": "Canvas",
+          "Description": "静かな時間を過ごしやすい、ぱんだ（graph）制作のワールド。",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_3273a1f6-9ab6-482f-8066-afd9d9d2a799",
+          "Name": "Late spring - 懐かしい暮春の午後",
+          "Description": "春の終わりの懐かしい雰囲気を楽しめる、街並み・海・鉄道のあるチルワールド。",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_be0e2291-c4f1-4bd4-b280-0161e13b8624",
+          "Name": "望塔思随5",
+          "Description": "春の景色、桜、鉄道、花畑などを楽しめる街並みワールド。",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_3cf11718-30fc-4b55-820c-000a484b04e5",
+          "Name": "あの夏-ThatSummer-",
+          "Description": "ひまわりや海など、日本の夏らしい景色を楽しめるワールド。",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_731aa340-5386-434d-9c4f-2929cd22ab60",
+          "Name": "夏の秘密基地 Secret Vacation",
+          "Description": "海辺の秘密基地でくつろげる、ミニゲームやボードゲームも備えた夏ワールド。",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_ef4b04ef-66f2-4bf8-b411-91fc7004237a",
+          "Name": "秋の山見温泉 Day-Night Yamami Hot Spring （Autumn）",
+          "Description": "昼夜の変化と紅葉を楽しめる、触れられる水を備えた温泉ワールド。",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_75ff2eaa-baec-4e47-b635-af1cb08e4169",
+          "Name": "HD Japanese School Winter",
+          "Description": "雪に包まれた日本の学校を再現した冬ワールド。Light Volumes対応などのライティング表現も特徴。（翻訳）",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_83423a77-3f49-4687-8de1-ab57f259bf40",
+          "Name": "Fractured Winter",
+          "Description": "雪景色と幻想的・シュールな雰囲気を楽しめる冬の風景ワールド。（翻訳）",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_0d6236a5-2ff7-4def-a907-ac5c761823eb",
+          "Name": "温泉⁄Hot Spring",
+          "Description": "休憩・睡眠・動画視聴・ボードゲームなどを楽しめる温泉チルワールド。（翻訳）",
+          "ReleaseStatus": "public"
+        }
+      ]
+    },
+    {
+      "Category": "春のチルワ",
+      "Worlds": [
+        {
+          "ID": "wrld_b645fa5f-13f9-4637-9f55-03c789d0d8cb",
+          "Name": "VRC投稿写真展示会~2026春~",
+          "Description": "2026年春をテーマにしたVRC投稿写真展示会のワールド。",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_e3bafcc5-7d38-4f11-b6ae-5a5e721170ec",
+          "Name": "春日傘",
+          "Description": "春の庭園や橋などを散策できる和風アウトドアワールド。",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_6b146f4b-d243-48a2-96dd-636797b4ce81",
+          "Name": "april",
+          "Description": "春の空気を感じながら過ごせるアウトドアワールド。ピアノも設置。",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_ace61d1f-2ade-499e-8c89-1550b124c169",
+          "Name": "Santa Anita Spring Festival",
+          "Description": "春祭りをテーマにした多人数向けイベントワールド。（翻訳）",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_3c83013f-656c-4eda-bdbd-3a22eee3e120",
+          "Name": "双扉学園～卒業式～",
+          "Description": "学校と卒業式をテーマにした春の青春系ワールド。",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_d62dc533-427e-4083-b3dc-16dbc9b98692",
+          "Name": "春と冬",
+          "Description": "春と冬、二つの季節の雰囲気を楽しめるホーム・睡眠向けワールド。",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_3273a1f6-9ab6-482f-8066-afd9d9d2a799",
+          "Name": "Late spring - 懐かしい暮春の午後",
+          "Description": "春の終わりの懐かしい午後をイメージした、街並み・海・鉄道のあるワールド。",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_98f79348-bd7a-4d0f-a884-05bbd5f00270",
+          "Name": "Longing for spring 春への憧れ",
+          "Description": "春への憧れをテーマにした、パーティクル演出のあるワールド。",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_acb5e0d2-ee97-435c-a73e-5f8a4087bb06",
+          "Name": "はるかぜティータイム",
+          "Description": "海や桜を眺めながらティータイムを楽しめる少人数向け春ワールド。",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_9f5e1365-f5bd-4204-a0df-218eaa8462af",
+          "Name": "望塔思随5（dust2）",
+          "Description": "桜・鉄道・街並みなどを楽しめる春の探索系ワールド。",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_6b1136db-ce1f-4fa9-8e4b-6f32e0aea4af",
+          "Name": "Summer Breeze⁄薫風",
+          "Description": "海と鳥居のある爽やかな風景を楽しめる、春から初夏向けのワールド。",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_2fa8816f-18d2-46d5-a547-93d518c5c31d",
+          "Name": "狐の隠れ家 ~spring~",
+          "Description": "桜や鳥居、月の見える庭園を備えた和風の春チルワールド。",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_9df53d03-3915-4dc2-922c-26270841a5de",
+          "Name": "Exhibition˸ Seasonery",
+          "Description": "春・秋・冬など季節をテーマにした展示ワールド。（翻訳）",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_c0718e9d-7d9d-4bc8-bff4-99e60847a45d",
+          "Name": "Spring Skies",
+          "Description": "春の空、川、街並みを楽しめるアウトドアワールド。（翻訳）",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_24bbe3f5-c50a-415f-99e0-52c999ae69a6",
+          "Name": "惜春温泉・滄海原ノ湯",
+          "Description": "海や星、月を眺めながら露天風呂を楽しめる春の温泉ワールド。",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_be0e2291-c4f1-4bd4-b280-0161e13b8624",
+          "Name": "望塔思随5",
+          "Description": "街並み、桜、鉄道、花畑を楽しめる春の風景ワールド。",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_051de344-b10c-4d9f-854a-1580b9a2959a",
+          "Name": "春の山見温泉 Day-Night Yamami Hot Spring （Spring）",
+          "Description": "桜と山の景色、昼夜の変化を楽しめる春の露天温泉ワールド。",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_07aebfff-4f09-46a2-8d71-61c85fd89c8f",
+          "Name": "花見をしながら、話す春 - Hanami Room in Spring",
+          "Description": "花見をしながらゆっくり会話するための春ワールド。",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_6584c7ac-437b-42fa-8e45-d98f6973241a",
+          "Name": "Japan After School 春",
+          "Description": "日本の放課後を春の景色で表現した街並みワールド。",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_623e2bcc-7a27-4247-9706-9e782074b267",
+          "Name": "海と、桜と。",
+          "Description": "海と桜を組み合わせた、ぱんだ（graph）制作の春らしいチルワールド。",
+          "ReleaseStatus": "public"
+        }
+      ]
+    },
+    {
+      "Category": "夏のチルワ",
+      "Worlds": [
+        {
+          "ID": "wrld_3cf11718-30fc-4b55-820c-000a484b04e5",
+          "Name": "あの夏-ThatSummer-",
+          "Description": "ひまわりと海など、日本の夏を感じられる風景ワールド。",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_dbb838f9-4b62-4624-a3c7-359c7bf689f6",
+          "Name": "Summer Beach",
+          "Description": "海辺と建物を備えた、泳いだりくつろいだりできる夏のビーチワールド。（翻訳）",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_515c12fc-66ec-4913-a386-d3d1d3e7b80c",
+          "Name": "夏。",
+          "Description": "夏をテーマにした、睡眠やチルにも使えるホーム系ワールド。",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_fabef57d-3d01-4883-a923-f087f86d20ef",
+          "Name": "夏の向こう側",
+          "Description": "夏のアウトドア風景と写真撮影を楽しめるワールド。",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_bef3d110-8682-4ec3-ba5c-eb64f4d5a63a",
+          "Name": "エンドレスサマー",
+          "Description": "海と鉄道を楽しめる、夏をテーマにしたアウトドアワールド。",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_5ba9174e-5a0d-4792-8e98-3d3591dd236f",
+          "Name": "ホームワールドだよ",
+          "Description": "海のそばで過ごせる夏のホーム系ワールド。",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_51f6bc3d-59c1-43d8-9871-f9bff1236d75",
+          "Name": "夏だ！海だ！サマーバケーションだ！",
+          "Description": "海辺で夏休み気分を楽しめるサマーバケーションワールド。",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_44bb00cf-e6c0-496f-b75d-acd7728bd762",
+          "Name": "日本の夏",
+          "Description": "夜の家と花火など、日本らしい夏の風景を楽しめるワールド。",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_d5b4c2e8-f9b5-4553-8e11-e4ac4d599ebe",
+          "Name": "DREAME BEACH",
+          "Description": "海と浜辺をテーマにした夢のような夏のビーチワールド。",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_262a44a8-f319-4cca-90b9-df18eb618dff",
+          "Name": "集会所「月虹」Summer2026",
+          "Description": "月を眺めながら海辺で過ごせる2026年夏版の集会ワールド。",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_731aa340-5386-434d-9c4f-2929cd22ab60",
+          "Name": "夏の秘密基地 Secret Vacation",
+          "Description": "海辺の秘密基地。睡眠、ミニゲーム、ビリヤード、カードゲームなども楽しめる。",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_246cd535-0967-4780-af6a-cbc6d8cc5552",
+          "Name": "めでたしめでたし",
+          "Description": "海や鳥居、雲などを眺められる夏のアウトドアワールド。",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_58b7d008-0990-457c-8c52-ff42b5e2e029",
+          "Name": "Summer pool",
+          "Description": "プールで夏らしい時間を過ごせるワールド。（翻訳）",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_aa762efb-17b3-4302-8f41-09c4db2489ed",
+          "Name": "PROJECT: SUMMER FLARE",
+          "Description": "夏をテーマにした演出重視のワールド。（翻訳）",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_f411b6fb-3221-4c3c-aabf-f795e7b496f1",
+          "Name": "Remember/夏憶",
+          "Description": "夏の記憶をテーマにした雰囲気系ワールド。",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_957a33bc-1583-400d-bd8d-c241a27b83fd",
+          "Name": "VAPORWAVE BEACH",
+          "Description": "Vaporwave調のビーチで夏の雰囲気を楽しめるワールド。（翻訳）",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_6d366873-e6da-4019-8d18-e51dd31a57ca",
+          "Name": "えも夏祭2025会場",
+          "Description": "夏祭りをテーマにしたイベント会場ワールド。",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_a059f75e-ef98-42cb-84be-420e4564abdc",
+          "Name": "-yuuri-夏空自然公園",
+          "Description": "夏空の下で自然を楽しめる公園ワールド。",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_e56e3dc0-21a2-44aa-a08d-53337221c92b",
+          "Name": "夏の息吹 : Summer Breath",
+          "Description": "夏の自然や空気感を楽しむための風景ワールド。",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_0c88e0cb-3282-4a1b-8f90-022d4f827f62",
+          "Name": "憧れの夏の孤島",
+          "Description": "夏の孤島でゆっくり過ごせる風景・チルワールド。",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_3fcdb5aa-e312-4a08-834f-24174e8b45a5",
+          "Name": "Just 例のプール生活",
+          "Description": "例のプールで生活できます。",
+          "ReleaseStatus": "public"
+        }
+      ]
+    },
+    {
+      "Category": "秋のチルワ",
+      "Worlds": [
+        {
+          "ID": "wrld_ef4b04ef-66f2-4bf8-b411-91fc7004237a",
+          "Name": "秋の山見温泉 Day-Night Yamami Hot Spring （Autumn）",
+          "Description": "紅葉と昼夜の変化を楽しめる温泉ワールド。リアルタイムライトを使用しているためPC負荷は高め。",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_801736aa-0399-4bf4-b00c-b8084423c099",
+          "Name": "紅時雨の極泉郷",
+          "Description": "秋の景色の中で温泉を楽しめる和風ワールド。",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_1bb0a35e-ed64-486d-a772-762086ef67e4",
+          "Name": "La Fille Maple Tree House",
+          "Description": "紅葉の季節に似合う、木の上の家をイメージした居心地のよい秋ワールド。",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_a53ce3c3-ced1-47a8-8d72-9bc6882e6638",
+          "Name": "ふくを呼ぶ秋の我が家-Japanese-style Home in Autumn with Owls-",
+          "Description": "フクロウと秋の風景を楽しめる和風ホームワールド。",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_9df53d03-3915-4dc2-922c-26270841a5de",
+          "Name": "Exhibition˸ Seasonery",
+          "Description": "春・秋・冬など季節をテーマにした展示ワールド。（翻訳）",
+          "ReleaseStatus": "public"
+        }
+      ]
+    },
+    {
+      "Category": "冬のチルワ",
+      "Worlds": [
+        {
+          "ID": "wrld_eddae68e-ecfd-4560-95df-d7334a0ae2b3",
+          "Name": "遠郷の冬めく夜 -Nostalgic Winter Night-",
+          "Description": "冬の夜の懐かしい空気感を楽しめる風景ワールド。",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_65864a0b-0fd0-4bcc-939c-cc56fd2bac7a",
+          "Name": "Everlight Manor",
+          "Description": "雪景色に包まれた邸宅で静かな時間を過ごせる冬ワールド。（翻訳）",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_75ff2eaa-baec-4e47-b635-af1cb08e4169",
+          "Name": "HD Japanese School Winter",
+          "Description": "雪に包まれた日本の学校。Light Volumes対応などのライティング表現も特徴。（翻訳）",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_83423a77-3f49-4687-8de1-ab57f259bf40",
+          "Name": "Fractured Winter",
+          "Description": "雪景色と幻想的・シュールな雰囲気を楽しめる冬の風景ワールド。（翻訳）",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_0b569ee2-d66e-4329-b61e-814a7f0a8f0b",
+          "Name": "Snow",
+          "Description": "雪と霧に包まれた屋外風景を楽しめる冬ワールド。（翻訳）",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_d62dc533-427e-4083-b3dc-16dbc9b98692",
+          "Name": "春と冬",
+          "Description": "春と冬、二つの季節を楽しめるホーム・睡眠向けワールド。",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_9df53d03-3915-4dc2-922c-26270841a5de",
+          "Name": "Exhibition˸ Seasonery",
+          "Description": "春・秋・冬など季節をテーマにした展示ワールド。（翻訳）",
+          "ReleaseStatus": "public"
+        }
+      ]
+    },
+    {
+      "Category": "温泉のチルワ",
+      "Worlds": [
+        {
+          "ID": "wrld_0d6236a5-2ff7-4def-a907-ac5c761823eb",
+          "Name": "温泉⁄Hot Spring",
+          "Description": "休憩、睡眠、動画プレイヤー、チェスや将棋などのボードゲームを楽しめる温泉チルワールド。（翻訳）",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_f86c19d1-962e-4c84-900d-2f38e737e228",
+          "Name": "思い出の湯 - Omoide-no-yu",
+          "Description": "日本の温泉をテーマにした、ゆっくり過ごせるワールド。",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_801736aa-0399-4bf4-b00c-b8084423c099",
+          "Name": "紅時雨の極泉郷",
+          "Description": "秋の景色を楽しみながら温泉に入れる和風ワールド。",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_2de8ae89-33ba-446c-a288-edfe9c50a182",
+          "Name": "湯焔庵-ゆえんあん-",
+          "Description": "和風の雰囲気で温泉を楽しめるワールド。",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_64356f7d-f8d8-41c6-866e-57917f0488b4",
+          "Name": "The Wicc Inn",
+          "Description": "夜の屋外や建物と温泉を楽しめる宿風ワールド。（翻訳）",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_4f0231b6-251a-4d2e-9fec-ecc0040ee927",
+          "Name": "夜桜の湯神社",
+          "Description": "夜桜、神社、鳥居と温泉を楽しめる和風ワールド。",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_24bbe3f5-c50a-415f-99e0-52c999ae69a6",
+          "Name": "惜春温泉・滄海原ノ湯",
+          "Description": "海や星、月を眺めながら露天風呂に入れる春の温泉ワールド。",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_051de344-b10c-4d9f-854a-1580b9a2959a",
+          "Name": "春の山見温泉 Day-Night Yamami Hot Spring （Spring）",
+          "Description": "桜と山、昼夜の変化を楽しめる春の露天温泉ワールド。",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_ef4b04ef-66f2-4bf8-b411-91fc7004237a",
+          "Name": "秋の山見温泉 Day-Night Yamami Hot Spring （Autumn）",
+          "Description": "紅葉と昼夜の変化を楽しめる秋の露天温泉ワールド。",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_1274b2bb-0858-44e7-ad91-e037452a6558",
+          "Name": "旅館「待宵」-inn matuyoi-",
+          "Description": "旅館の落ち着いた空間と温泉を楽しめる和風ワールド。",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_dcd066ae-d703-4f10-9f4e-15c784a8d8f4",
+          "Name": "NEWまめやすめ",
+          "Description": "まったり休憩しやすいワールド。温泉系タグで公開されているスポット。",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_f1e15ed4-1844-4b67-9636-497880a4dbf7",
+          "Name": "Hanami Onsen",
+          "Description": "花見をしながら温泉を楽しめるワールド。（翻訳）",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_609172ce-44e5-4eec-a679-41a21830421e",
+          "Name": "おチルために昇る-Chill Rise-",
+          "Description": "のんびり過ごすことを目的にした温泉・チル系ワールド。",
+          "ReleaseStatus": "public"
+        }
+      ]
+    },
+    {
+      "Category": "ぱんだポータル",
+      "Worlds": [
+        {
+          "ID": "wrld_aa14f700-893a-4ac1-a095-c89b9a669b12",
+          "Name": "Panda World Gallery",
+          "Description": "ぱんだ（graph）が自作ワールドで撮影した写真を展示する個展ワールド。非公開ワールドへのポータルも設置されています。",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_7a07d4a7-7118-42f8-b105-f1044899fb56",
+          "Name": "クッソ傾く家",
+          "Description": "クッソ傾く家。",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_2583098d-cdc8-4be6-9086-a3b12225ddf9",
+          "Name": "明日も、ここから。",
+          "Description": "星空に包まれながら、今日もお休み。",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_05d530f5-26f8-4bdd-8589-4e0d198df0a2",
+          "Name": "星と、あなたと。",
+          "Description": "宇宙を漂うお部屋に、必要な物は揃っています。",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_e0199185-f4ac-49ac-b10f-e209cad880bb",
+          "Name": "Rest.",
+          "Description": "ゆっくり休憩するための落ち着いたワールド。",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_845a0a4c-2739-4803-ac84-ca1d34b242ab",
+          "Name": "Canvas",
+          "Description": "静かな時間を過ごしやすいワールド。",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_b4496318-b685-4660-b025-a6db220efacf",
+          "Name": "「ここから。」",
+          "Description": "ぱんだ（graph）制作のチル系ワールド。",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_437599e3-f1c5-41d4-a1a9-16f3be40a73b",
+          "Name": "Vision",
+          "Description": "ぱんだ（graph）制作の雰囲気系ワールド。",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_0bcb7f57-072f-4b84-b212-fab589b140a2",
+          "Name": "ただいま -tadaima-",
+          "Description": "定員2人の小さなお部屋に、必要なものは全て揃っています。",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_153378bc-2b76-47f2-884f-d2fc4d20122d",
+          "Name": "［二人専用］愛情表現",
+          "Description": "二人で協力しながら進む5～10分程度の短編ホラー。グロテスクな表現があり、一人では動作しません。",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_cb3fd7f6-b8f6-4ce4-bf02-eca71470f32e",
+          "Name": "Just エレベーター生活",
+          "Description": "エレベーターを生活空間として楽しむユニークなワールド。",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_2340af4d-fa69-417d-95ca-f95f33bd9a63",
+          "Name": "落ちつかない和室",
+          "Description": "落ち着きそうで落ち着かない和室をテーマにしたワールド。",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_a321bc7d-eca1-4098-ae5c-a78d063c2c9d",
+          "Name": "24時にお誕生日パーティー会場になる家",
+          "Description": "23時59分からカウントダウンし、24時になると誕生日パーティー会場へ変化する家。",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_9e56298b-8d32-4c10-96ff-7ace2ae62119",
+          "Name": "毎日が大晦日 ～年越し体験ワールド～",
+          "Description": "年越しの雰囲気をいつでも体験できるワールド。",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_bf31c706-f237-4924-890e-89b9c4e65b7d",
+          "Name": "kawaiiムーブを練習するためだけのワールド",
+          "Description": "かわいい仕草やポーズを練習することを目的にしたワールド。",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_3fcdb5aa-e312-4a08-834f-24174e8b45a5",
+          "Name": "Just 例のプール生活",
+          "Description": "例のプールで生活できます。",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_e7b0876f-a839-46ac-bd23-6b8648b566a3",
+          "Name": "星と、誕生と。",
+          "Description": "お誕生日おめでとう！（翻訳）",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_623e2bcc-7a27-4247-9706-9e782074b267",
+          "Name": "海と、桜と。",
+          "Description": "海と桜を楽しめる春らしいチルワールド。",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_20dadfb8-6f78-4aa2-8b47-13a696a03103",
+          "Name": "静けさの今を見つめて",
+          "Description": "静かな景色の中で今この瞬間を眺める、落ち着いた雰囲気のワールド。",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_a8cd04c0-bb1e-4f1e-b582-4a3dbb75078e",
+          "Name": "VR童話 -DJシンデレラ ミッドナイトブレイク-",
+          "Description": "童話とDJを組み合わせたユニークなVR体験ワールド。",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_cf42a49f-19e1-49fa-a110-0bb93421b51a",
+          "Name": "お砂糖甘々ルーム2（お部屋大爆発ボタンあり）",
+          "Description": "甘い雰囲気のお部屋。大爆発ボタン付き。",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_dfe04bda-bcf6-49a7-97fd-f4812c6ea646",
+          "Name": "お砂糖甘々ルーム（おじさん乱入機能あり）",
+          "Description": "甘い雰囲気のお部屋にユニークな乱入ギミックを備えたワールド。",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_63ece0ec-13da-4acd-a7e5-6a10b1c587c5",
+          "Name": "ぱんだ幼稚園",
+          "Description": "ぱんだ（graph）制作の幼稚園テーマワールド。",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_c0666e6e-ec20-432c-8175-74e43ca20ff4",
+          "Name": "ジャパニーズパリピ体育館",
+          "Description": "DJ練習向けに作られた体育館。iwaSync、TopazChat、セキュリティ切替を備えています。（翻訳）",
+          "ReleaseStatus": "public"
+        }
+      ]
+    },
+    {
+      "Category": "ゲームワールド",
+      "Worlds": [
+        {
+          "ID": "wrld_731aa340-5386-434d-9c4f-2929cd22ab60",
+          "Name": "夏の秘密基地 Secret Vacation",
+          "Description": "夏の秘密基地で、ビリヤード、カードゲーム、オセロなども遊べるワールド。",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_504e452c-1feb-4599-be18-1996dfec8c44",
+          "Name": "レンソービンゴ",
+          "Description": "連想を使ったビンゴを楽しめるミニゲームワールド。",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_e7568eb9-4853-423e-b611-ca105b3d8f4c",
+          "Name": "Digital place",
+          "Description": "ボードゲームやチェスなどを遊べる多人数向けワールド。（翻訳）",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_1ca7f184-cec4-4399-b4ef-483082232a93",
+          "Name": "まったりチルルーム",
+          "Description": "チル空間にミニゲーム、ボードゲーム、チェスなどを備えたワールド。",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_e1df30cd-0e22-4b81-93aa-33501c5a9a9e",
+          "Name": "A Place To Remember",
+          "Description": "くつろぎ空間にミニゲーム、ボードゲーム、オセロなどを備えたワールド。（翻訳）",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_d1134a3a-1e30-4b73-bd6c-3ad7cf38e2f7",
+          "Name": "QuickShotForDesktop",
+          "Description": "デスクトップでも遊びやすい、カードゲーム要素を含むミニゲームワールド。（翻訳）",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_abca9d5a-8a7f-4799-b9a5-5ff85d64cb36",
+          "Name": "Moose billiard with moose balls",
+          "Description": "ムースをモチーフにしたボールで遊ぶビリヤードワールド。（翻訳）",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_2886e221-06df-4107-84b5-bb2776103fad",
+          "Name": "「それでもそれでも僕は守りたい春があるんだ！」",
+          "Description": "春をテーマにした再現・二次創作系のミニゲームワールド。",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_0c64a408-3e17-4dd6-a112-2b793c0d0ad3",
+          "Name": "FPVDrone plactice room 89",
+          "Description": "FPVドローンを練習できるミニゲーム系ワールド。（翻訳）",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_d5ac4178-6f7d-4667-a3c7-fab3af248f8c",
+          "Name": "Waterlemons Easter Egg huntǃ",
+          "Description": "イースターエッグ探しを楽しめるアウトドア型ミニゲームワールド。（翻訳）",
+          "ReleaseStatus": "public"
+        }
+      ]
+    }
+  ],
+  "Roles": []
+}
